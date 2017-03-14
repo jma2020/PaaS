@@ -8,5 +8,5 @@
 #
 # Learn more about module testing here:
 # https://docs.puppet.com/guides/tests_smoke.html
-#
+# auther: jma0002
 include ::pptest
